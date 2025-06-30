@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38861710573",
+    "project_id": "baru-mobil-110e6",
+    "storage_bucket": "baru-mobil-110e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38861710573:android:af693d663d677d398958e4",
+        "android_client_info": {
+          "package_name": "com.example.baru_mobil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOpn4lTh93AFlQtVEdMqdRnPkkLnM34KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

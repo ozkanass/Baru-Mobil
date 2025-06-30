@@ -1,0 +1,2 @@
+C:/baru_mobil/android/app/.cxx/RelWithDebInfo/5q5j3a1k/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/baru_mobil/android/app/.cxx/RelWithDebInfo/5q5j3a1k/armeabi-v7a/CMakeFiles/rebuild_cache.dir
